@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://softwareinstaller.net/">
+
 How to Install NordPass in Under 2 Minutes (Step-by-Step Guide)?
 ============================================
 
